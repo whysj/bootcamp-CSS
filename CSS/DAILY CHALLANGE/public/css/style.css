@@ -1,0 +1,86 @@
+header {
+    clear: both;
+    background-color: #ffffff;
+    position: fixed;
+    width: 100%;
+    overflow: hidden;
+    height: 50px;
+    top: 0;
+}
+
+ul {
+    float: right;
+    margin: 0;
+    padding: 15px 5px;
+}
+
+li{
+    display: inline;
+    padding: 10px;
+    text-decoration: none;
+    color: #023ad4;
+    font-family:Helvetica;
+    font-size: 15px;  
+}
+
+a {
+    text-decoration: none;
+}
+
+#logo {
+    float: left;
+}
+
+body {
+    background-image: url(../img/pattern.jpg)
+}
+
+#article-list {
+    width: 65%;
+    border: 50px;
+    padding: 50px;
+    margin: auto;
+    position: static;
+    background-color: #ffffff;
+}
+
+h1 {
+    text-align: center;
+    border: 50px;
+    padding-top: 75px;
+    margin:0 auto;
+    padding-bottom: 25px;
+    font-family: 'slabo 27px',serif;
+        
+}
+
+p {
+    font-size: 12px;
+}
+
+footer {
+    clear: both;
+    color: #ffffff;
+    background-color: black;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+   
+}
+
+
+h5 {
+    text-align: center;
+    font-size: small;
+    font-family: 'Franklin Gothic Medium';
+    padding: 15px;
+    
+    
+}
+
+article {
+    border-bottom-style: ridge;
+    padding-top: 30px;
+    
+}
